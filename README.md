@@ -98,7 +98,7 @@ Provides an executive overview of:
 - Revenue by Category
 - Store Performance
 
-![Executive Dashboard](Executive%20Business%20Performance.png)
+![Executive Dashboard](Executive%20Business%20Performance%20Dashboard.png)
 
 ---
 
