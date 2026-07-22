@@ -69,7 +69,7 @@ Dimension Tables
 
 ### Data Model
 
-![Data Model](Data%20Model.png)
+![Data Model](Images/Data%20Model.png)
 
 ---
 
@@ -77,7 +77,7 @@ Dimension Tables
 
 Power Query was used to clean, transform and prepare the data before loading into the model.
 
-![Power Query](Power%20Query.png)
+![Power Query](Images/Power%20Query.png)
 
 ---
 
@@ -98,7 +98,7 @@ Provides an executive overview of:
 - Store Performance
 
 ## Dashboard Preview
-![Executive Dashboard](Executive%20Business%20Performance%20Dashboard.png)
+![Executive Dashboard](Images/Executive%20Business%20Performance%20Dashboard.png)
 
 ---
 
@@ -112,7 +112,7 @@ Analyses product and brand performance through:
 - Category Performance Summary
 
 ## Dashboard Preview
-![Sales Dashboard](Sales%20%26%20Product%20Performance.png)
+![Sales Dashboard](Images/Sales%20%26%20Product%20Performance.png)
 
 ---
 
@@ -126,7 +126,7 @@ Explores customer behaviour and geographical performance using:
 - Revenue vs Customers by Country
 
 ## Dashboard Preview
-![Customer Dashboard](Customer%20%26%20Geographic%20Insights.png)
+![Customer Dashboard](Images/Customer%20%26%20Geographic%20Insights.png)
 
 ---
 
