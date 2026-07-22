@@ -10,8 +10,7 @@ The objective was to transform raw transactional data into interactive dashboard
 
 ## Business Problem
 
-Business leaders require a centralised reporting solution to monitor organisational performance and support data-driven decision making.
-
+Business leaders require a centralised reporting solution to monitor performance, identify trends and support data-driven decision-making across products, customers and geographical markets.
 This dashboard answers key business questions such as:
 
 - Which products generate the highest revenue and profit?
@@ -47,7 +46,7 @@ Key preparation activities included:
 - Corrected data types
 - Created Delivery Days
 - Cleaned currency fields
-- Built a Star Schema data model
+- Designed and implemented a Star Schema data model.
 - Created a dedicated Date Dimension
 - Developed reusable DAX measures
 
@@ -98,6 +97,7 @@ Provides an executive overview of:
 - Revenue by Category
 - Store Performance
 
+## Dashboard Preview
 ![Executive Dashboard](Executive%20Business%20Performance%20Dashboard.png)
 
 ---
@@ -111,6 +111,7 @@ Analyses product and brand performance through:
 - Revenue vs Profit by Brand
 - Category Performance Summary
 
+## Dashboard Preview
 ![Sales Dashboard](Sales%20%26%20Product%20Performance.png)
 
 ---
@@ -124,20 +125,30 @@ Explores customer behaviour and geographical performance using:
 - Top Revenue Generating Cities
 - Revenue vs Customers by Country
 
+## Dashboard Preview
 ![Customer Dashboard](Customer%20%26%20Geographic%20Insights.png)
 
 ---
 
 # Key Business Insights
 
-- Computers generated the highest revenue and profit.
-- North America contributed the largest share of revenue.
-- Physical stores generated the majority of sales.
-- Toronto was the highest revenue-generating city.
-- Revenue was concentrated across a small number of countries.
-- Customer distribution varied significantly by geography.
+- Computers generated the highest revenue (£19.3M) and profit (£11.3M), making them the best-performing product category.
+- North America contributed the majority of total revenue, highlighting its importance as the company's primary market.
+- Toronto was the highest revenue-generating city across all locations.
+- Physical stores generated a larger share of revenue than online sales.
+- Revenue was concentrated across a relatively small number of countries, indicating opportunities for further international growth.
 
 ---
+
+## Project Highlights
+
+- End-to-end Business Intelligence solution developed in Power BI
+- Star Schema data model for efficient reporting
+- Data transformation using Power Query
+- Interactive dashboards built with DAX measures and KPIs
+- Executive, Sales and Customer analytics dashboards
+
+  ---
 
 # Tools & Technologies
 
@@ -150,16 +161,37 @@ Explores customer behaviour and geographical performance using:
 
 # Skills Demonstrated
 
-- Business Intelligence
-- Dashboard Design
+### Data Preparation
+- Power Query
 - Data Cleaning
 - Data Transformation
-- Star Schema Data Modelling
+
+### Data Modelling
+- Star Schema
+- Relationship Management
+
+### Analysis
 - DAX
 - KPI Development
+- Business Analysis
+
+### Reporting
+- Dashboard Design
 - Data Visualisation
-- Data Storytelling
 - Executive Reporting
+- Data Storytelling
+
+---
+
+# Future Enhancements
+
+Possible enhancements for future versions include:
+
+- Implement Row-Level Security (RLS)
+- Add drill-through pages for detailed analysis
+- Support dynamic currency conversion
+- Publish to Power BI Service with scheduled refresh
+- Connect to live data sources for real-time reporting
 
 ---
 
